@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 96aca110d6b4d4141b0957ffcc5e0a20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cheesePrefab: {fileID: 4191050486491860842, guid: a563834ef6b588f449d9eda186acc724, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
