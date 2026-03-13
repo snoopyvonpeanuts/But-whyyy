@@ -4,8 +4,8 @@ public class CheeseSpawner : MonoBehaviour
 {
     public GameObject cheesePrefab;
 
-    public float minX = -9f;
-    public float maxX = 9f;
+    public float minX = -8f;
+    public float maxX = 8f;
     public float minY = -4f;
     public float maxY = 4f;
 
